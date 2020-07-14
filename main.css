@@ -83,3 +83,10 @@ nave a:active {
 	font-family: hatch, serif;
 	font-size: 20px
 }
+
+form {
+	background-color: rgba(162,118,249,1.00);
+	height: 180px;
+	width: 170px
+	
+}
